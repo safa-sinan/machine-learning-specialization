@@ -1,2 +1,2 @@
 # machine-learning-specialization
-machine learning specialization coursera
+machine learning specialization
